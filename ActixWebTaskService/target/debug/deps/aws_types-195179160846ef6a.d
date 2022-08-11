@@ -1,0 +1,17 @@
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_types-195179160846ef6a.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\app_name.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\build_metadata.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\config.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\credentials_impl.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\provider.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\os_shim_internal.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\region.rs c:\Users\pc\Desktop\Code\Git\New\ folder\git\ActixWebTaskService\target\debug\build\aws-types-0d6d59f9608fd22c\out/build_env.rs
+
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_types-195179160846ef6a.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\app_name.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\build_metadata.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\config.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\credentials_impl.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\provider.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\os_shim_internal.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\region.rs c:\Users\pc\Desktop\Code\Git\New\ folder\git\ActixWebTaskService\target\debug\build\aws-types-0d6d59f9608fd22c\out/build_env.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\app_name.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\build_metadata.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\config.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\mod.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\credentials_impl.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\credentials\provider.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\os_shim_internal.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-types-0.8.0\src\region.rs:
+c:\Users\pc\Desktop\Code\Git\New\ folder\git\ActixWebTaskService\target\debug\build\aws-types-0d6d59f9608fd22c\out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.8.0
+# env-dep:OUT_DIR=c:\\Users\\pc\\Desktop\\Code\\Git\\New folder\\git\\ActixWebTaskService\\target\\debug\\build\\aws-types-0d6d59f9608fd22c\\out

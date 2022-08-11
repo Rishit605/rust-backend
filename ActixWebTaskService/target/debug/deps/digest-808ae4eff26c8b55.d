@@ -1,0 +1,11 @@
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\digest-808ae4eff26c8b55.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs
+
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\digest-808ae4eff26c8b55.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\ct_variable.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\rt_variable.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\wrapper.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\core_api\xof_reader.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.3\src\digest.rs:

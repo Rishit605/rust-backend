@@ -1,0 +1,11 @@
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_smithy_types-6e2831475702187a.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\base64.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\format.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\primitive.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\retry.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\timeout.rs
+
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_smithy_types-6e2831475702187a.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\base64.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\format.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\primitive.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\retry.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\timeout.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\base64.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\mod.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\date_time\format.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\primitive.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\retry.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-types-0.38.0\src\timeout.rs:

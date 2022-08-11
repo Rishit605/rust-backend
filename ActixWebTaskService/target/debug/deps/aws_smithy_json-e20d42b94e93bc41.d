@@ -1,0 +1,10 @@
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_smithy_json-e20d42b94e93bc41.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\error.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\token.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\escape.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\serialize.rs
+
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\aws_smithy_json-e20d42b94e93bc41.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\error.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\token.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\escape.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\serialize.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\error.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\deserialize\token.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\escape.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\aws-smithy-json-0.38.0\src\serialize.rs:

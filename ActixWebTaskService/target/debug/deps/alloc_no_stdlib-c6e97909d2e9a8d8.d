@@ -1,0 +1,10 @@
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\alloc_no_stdlib-c6e97909d2e9a8d8.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\index_macro.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\stack_allocator.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_stack_memory.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\init.rs
+
+c:\Users\pc\Desktop\Code\Git\New folder\git\ActixWebTaskService\target\debug\deps\alloc_no_stdlib-c6e97909d2e9a8d8.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\mod.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\index_macro.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\stack_allocator.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_stack_memory.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\init.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\mod.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_memory\index_macro.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\stack_allocator.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\allocated_stack_memory.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\alloc-no-stdlib-2.0.3\src\init.rs:
